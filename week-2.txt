@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" contenteditable="width=device-width, initial-scale=1">
+    <title>
+        <h6>My first week program of FSWD</h6>
+    </title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous"><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="jumbotron text-center">
+        <h1 contenteditable="true">My First web page</h1>
+        <h3 contenteditable="true">your tagline</h3>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <h2>column1</h2>
+                <p>In the mid-19th century, England experienced an influx of Irish immigrants who swelled the populations of the major cities, including the East End of London. From 1882, Jewish refugees fleeing pogroms in the Russian Empire and other areas of Eastern Europe emigrated into the same area.[2] The parish of Whitechapel in the East End became increasingly overcrowded, with the population increasing to approximately 80,000 inhabitants by 1888.[3] Work and housing conditions worsened, and a significant economic underclass developed.[4] Fifty-five per cent of children born in the East End died before they were five years old.[5] Robbery, violence, and alcohol dependency were commonplace,[3] and the endemic poverty drove many women to prostitution to survive on a daily basis.</p>
+            </div>
+            <div class="col-sm-4">
+             <h2>column2</h2>
+             <p>In October 1888, London's Metropolitan Police Service estimated that there were 62 brothels and 1,200 women working as prostitutes in Whitechapel,[7] with approximately 8,500 people residing in the 233 common lodging-houses within Whitechapel every night,[3] with the nightly price for a coffin bed being fourpence (equivalent to £2 in 2021)[8] and the cost of sleeping upon a "lean-to" or "hang-over" rope stretched across the dormitory being two pence per person.[9]</p>
+            </div> 
+            <div class="col-sm-4">
+             <h2>column3</h2>
+             <p>The economic problems in Whitechapel were accompanied by a steady rise in social tensions. Between 1886 and 1889, frequent demonstrations led to police intervention and public unrest, such as Bloody Sunday (1887).[10] Antisemitism, crime, nativism, racism, social disturbance, and severe deprivation influenced public perceptions that Whitechapel was a notorious den of immorality.[11] Such perceptions were strengthened in 1888 when the series of vicious and grotesque murders attributed to "Jack the Ripper" received unprecedented coverage in the media.[12]</p>
+            </div>
+        </div>
+    </div>   
+</body>
+</html>
